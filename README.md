@@ -1,1 +1,209 @@
-# Algorithm_Study
+# 🖥 알고리즘 스터디
+
+<table>
+    <td>플랫폼</td>
+    <td>백준, 프로그래머스</td>
+  </tr>
+  <tr>
+    <td>언어</td>
+    <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🤖 스터디 멤버
+
+<table>
+ <tr>
+    <td align="center"><a href="https://github.com/tldjfj123"><img src="https://avatars.githubusercontent.com/tldjfj123" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/YeonChanLim"><img src="https://avatars.githubusercontent.com/YeonChanLim" width="130px;" alt=""></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/tldjfj123"><b>tldjfj123</b></a></td>
+    <td align="center"><a href="https://github.com/YeonChanLim"><b>YeonChanLim</b></a></td>
+  </tr>
+  <tr> 
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+</table>
+
+<br/>
+
+## ✔️ 이번 주 문제
+
+| 주차 | 날짜 | 문제 유형 | 문제 | 난이도 |
+|:---:|:---:|:---:|:---:|:---:|
+|Week01|0626 ~ 0702| - | [CLASS1](https://solved.ac/class?class=1) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> ~ <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |
+<!--
+| week_ | 06-26 ~ 07-02 | Backtracking | <p align=left> 1️⃣ [N과 M (1)](https://www.acmicpc.net/problem/15649) <br> 2️⃣ [N과 M (9)](https://www.acmicpc.net/problem/15663) <br> 3️⃣ [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br> |
+-->
+
+<br/>
+
+## 🧑🏻‍💻 진행 상황 및 기록
+
+| 진행 상황            | 표기  |
+|:-----------------|:----|
+| 해당 주에 완료 시       | ✅   |
+| 해당 주에 부분 완료 시    | 🔢  |
+| 해당 주에 미완료 시      | ❌   |
+| 해당 주차 종료 이후 보충 시 | 🔺  |
+
+<br>
+
+|   주차    |      날짜       | tldjfj123 | YeonChanLim | 
+|:-------:|:-------------:|:-------:|:---------:|
+| Week01 | 0626 ~ 0702 |    ✅     |     ❌     | 
+<!--
+| week_02 | 02-27 ~ 03-05 |    ✅    |     ✅     |    ✅     |      ✅      |      ✅     |
+| week_03 | 03-06 ~ 03-12 |    ✅    |     🔺     |    ✅     |      ✅      |      ✅     |
+| week_04 | 03-13 ~ 03-19 |    ✅    |     ✅     |    🔺     |      ✅      |      ✅     |
+| week_05 | 03-20 ~ 03-26 |    ✅    |     🔺     |    ✅     |      ✅      |      ✅     |
+| week_06 | 03-27 ~ 04-02 |    2️⃣    |     ❌     |    🔺     |      🔺      |      ✅     |
+| week_07 | 04-03 ~ 04-09 |   방학    |    방학    |    방학    |      방학     |     방학     |
+| week_08 | 04-10 ~ 04-16 |    2️⃣    |     ✅     |    ✅     |      ✅      |      ✅     |
+| week_09 | 04-17 ~ 04-23 |    ✅    |     ✅     |    ✅     |      ✅      |      ✅     |
+| week_10 | 04-24 ~ 04-30 |    ✅    |     ✅     |    3️⃣     |      ✅      |      ✅     |
+| week_11 | 05-01 ~ 05-07 |   방학    |    방학    |    방학    |      방학     |     방학     |
+| week_12 | 05-08 ~ 05-14 |   방학    |    방학    |    방학    |      방학     |     방학     |
+| week_13 | 05-15 ~ 05-21 |    2️⃣    |     ✅     |    ✅     |      3️⃣      |   면접 준비   |
+| week_14 | 05-22 ~ 05-28 |    3️⃣    |     3️⃣     |    2️⃣     |      3️⃣      |   면접 준비   |
+| week_15 | 05-29 ~ 06-04 |    ✅    |     ✅     |    ❌     |      ✅      |   면접 준비   |
+| week_16 | 06-05 ~ 06-11 |    ✅    |     2️⃣     |    2️⃣     |      ✅      |   면접 준비   |
+| week_17 | 06-12 ~ 06-18 |   방학    |    방학    |    방학    |      방학     |   면접 준비   |
+| week_18 | 06-19 ~ 06-25 |        |          |         |            |      |
+-->
+
+<br/>
+
+## 📌 스터디 규칙
+
+### 운영 방식
+
+- 온라인/오프라인 스위칭하면서 진행
+
+### 문제
+
+- https://solved.ac/class 단계별로 해결
+
+### 문제 풀이
+
+- 사전 협의 된 양 만큼 진행
+
+<br/>
+<!--
+## 🗓 일정표(매주 5 문제)
+
+- 5번째 문제는 필수는 아니며 선택에 따라 풀이한다.
+<br>
+<details>
+  <summary>일정표 열기</summary>
+| 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| week_01 | 02-20 ~ 02-26 | Brute Force | <p align=left> 1️⃣ [분해합](https://www.acmicpc.net/problem/2231) <br> 2️⃣ [일곱 난쟁이](https://www.acmicpc.net/problem/2309) <br> 3️⃣ [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) <br> 4️⃣ [한수](https://www.acmicpc.net/problem/1065) <br> 5️⃣ [숫자 정사각형](https://www.acmicpc.net/problem/1051) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <br><br><br><br> |
+| week_02 | 02-27 ~ 03-05 | Sort Application | <p align=left> 1️⃣ [세수정렬](https://www.acmicpc.net/problem/2752) <br> 2️⃣ [콘테스트](https://www.acmicpc.net/problem/5576) <br> 3️⃣ [나이순 정렬](https://www.acmicpc.net/problem/10814) <br> 4️⃣ [좌표 정렬하기](https://www.acmicpc.net/problem/11650) <br> 5️⃣ [신입사원](https://www.acmicpc.net/problem/1946) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <br><br><br><br> |
+| week_03 | 03-06 ~ 03-12 | Binary Search | <p align=left> 1️⃣ [정수 제곱근](https://www.acmicpc.net/problem/2417) <br> 2️⃣ [수 찾기](https://www.acmicpc.net/problem/1920) <br> 3️⃣ [게임](https://www.acmicpc.net/problem/1072) <br> 4️⃣ [용돈 관리](https://www.acmicpc.net/problem/6236) <br> 5️⃣ [나무 자르기](https://www.acmicpc.net/problem/2805) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <br><br><br><br> |
+| week_04 | 03-13 ~ 03-19 | Two Pointers | <p align=left> 1️⃣ [배열 합치기](https://www.acmicpc.net/problem/11728) <br> 2️⃣ [주몽](https://www.acmicpc.net/problem/1940) <br> 3️⃣ [두 수의 합](https://www.acmicpc.net/problem/3273) <br> 4️⃣ [회전 초밥](https://www.acmicpc.net/problem/2531) <br> 5️⃣ [두 개의 탑](https://www.acmicpc.net/problem/2118) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br><br><br> |
+| week_05 | 03-20 ~ 03-26 | Graph Search | <p align=left> 1️⃣ [바이러스](https://www.acmicpc.net/problem/2606) <br> 2️⃣ [DFS와 BFS](https://www.acmicpc.net/problem/1260) <br> 3️⃣ [유기농 배추](https://www.acmicpc.net/problem/1012) <br> 4️⃣ [연결 요소의 개수](https://www.acmicpc.net/problem/11724) <br> 5️⃣ [토마토](https://www.acmicpc.net/problem/7576) <br> ➕ [회의실 배정](https://www.acmicpc.net/problem/1931) <br> ➕ [개똥벌레](https://www.acmicpc.net/problem/3020) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>| <br><br><br><br><br> 옵션 <br> 옵션 |
+| week_06 | 03-27 ~ 04-02 | Tree | <p align=left> 1️⃣ [상근이의 여행](https://www.acmicpc.net/problem/9372) <br> 2️⃣ [부동산 다툼](https://www.acmicpc.net/problem/20364) <br> 3️⃣ [완전 이진 트리](https://www.acmicpc.net/problem/9934) <br> 4️⃣ [트리 순회](https://www.acmicpc.net/problem/1991) <br> 5️⃣ [이진 검색 트리](https://www.acmicpc.net/problem/5639) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br><br><br> |
+| week_07 | 04-03 ~ 04-09 | <br> 방학 <br><br> | X | X | X |
+| week_08 | 04-10 ~ 04-16 | Dynamic Programming | <p align=left> 1️⃣ [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) <br> 2️⃣ [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) <br> 3️⃣ [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) <br> 4️⃣ [RGB거리](https://www.acmicpc.net/problem/1149) <br> 5️⃣ [평범한 배낭](https://www.acmicpc.net/problem/12865) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br><br><br> |
+| week_09 | 04-17 ~ 04-23 | Greedy | <p align=left> 1️⃣ [ATM](https://www.acmicpc.net/problem/11399) <br> 2️⃣ [에너지 드링크](https://www.acmicpc.net/problem/20115) <br> 3️⃣ [민겸 수](https://www.acmicpc.net/problem/21314) <br> 4️⃣ [회의실 배정](https://www.acmicpc.net/problem/1931) <br> 5️⃣ [강의실 배정](https://www.acmicpc.net/problem/11000) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br><br><br> |
+| week_10 | 04-24 ~ 04-30 | String | <p align=left> 1️⃣ [듣보잡](https://www.acmicpc.net/problem/1764) <br> 2️⃣ [파일 정리](https://www.acmicpc.net/problem/20291) <br> 3️⃣ [싸이버개강총회](https://www.acmicpc.net/problem/19583) <br> 4️⃣ [문자열 게임 2](https://www.acmicpc.net/problem/20437) <br> 5️⃣ [회문](https://www.acmicpc.net/problem/17609) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br><br><br> |
+| week_11 | 05-01 ~ 05-07 | 방학 | X | X | X |
+| week_12 | 05-08 ~ 05-14 | 방학 | X | X | X |
+| week_13 | 05-15 ~ 05-21 | Implementation | <p align=left> 1️⃣ [ZOAC 3](https://www.acmicpc.net/problem/20436) <br> 2️⃣ [달팽이](https://www.acmicpc.net/problem/1913) <br> 3️⃣ [달력](https://www.acmicpc.net/problem/20207) <br> 4️⃣ [ZOAC](https://www.acmicpc.net/problem/16719) <br> 5️⃣ [트리 순회](https://www.acmicpc.net/problem/22856) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <br><br><br><br> |
+| week_14 | 05-22 ~ 05-28 | Divide and conquer | <p align=left> 1️⃣ [색종이 만들기](https://www.acmicpc.net/problem/2630) <br> 2️⃣ [222-풀링](https://www.acmicpc.net/problem/17829) <br> 3️⃣ [Z](https://www.acmicpc.net/problem/1074) <br> 4️⃣ [별 찍기 - 10](https://www.acmicpc.net/problem/2447) <br> 5️⃣ [별 찍기 - 11](https://www.acmicpc.net/problem/2448) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <br><br><br><br> |
+| week_15 | 05-29 ~ 06-04 | Data Structre 1 | <p align=left> 1️⃣ [괄호](https://www.acmicpc.net/problem/9012) <br> 2️⃣ [후위 표기식2](https://www.acmicpc.net/problem/1935) <br> 3️⃣ [탑](https://www.acmicpc.net/problem/2493) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br> |
+| week_16 | 06-05 ~ 06-11 | Data Structre 2 | <p align=left> 1️⃣ [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) <br> 2️⃣ [N번째 큰 수](https://www.acmicpc.net/problem/2075) <br> 3️⃣ [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <br><br> |
+| week_17 | 06-12 ~ 06-18 | 방학 | X | X | X |
+| week_18 | 06-19 ~ 06-25 | 방학 | X | X | X |
+| week_19 | 06-26 ~ 07-02 | 방학 | X | X | X |
+| week_20 | 07-03 ~ 07-09 | Backtracking | <p align=left> 1️⃣ [N과 M (1)](https://www.acmicpc.net/problem/15649) <br> 2️⃣ [N과 M (9)](https://www.acmicpc.net/problem/15663) <br> 3️⃣ [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br> |
+| week_21 | 07-10 ~ 07-16 | Shortest Path | <p align=left> 1️⃣ [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) <br> 2️⃣ [경로 찾기](https://www.acmicpc.net/problem/11403) <br> 3️⃣ [숨바꼭질 3](https://www.acmicpc.net/problem/13549) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br> |
+| week_22 | 07-17 ~ 07-23 | Minimum Spanning Tree | <p align=left> 1️⃣ [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) <br> 2️⃣ [네트워크 연결](https://www.acmicpc.net/problem/1922) <br> 3️⃣ [도시 건설](https://www.acmicpc.net/problem/21924) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <br><br> |
+| week_23 | 07-24 ~ 07-30 | Simulation | <p align=left> 1️⃣ [지구 온난화](https://www.acmicpc.net/problem/5212) <br> 2️⃣ [후보 추천하기](https://www.acmicpc.net/problem/1713) <br> 3️⃣ [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br> |
+  
+  
+  </details>
+<br/>
+-->
+<br/>
+
+## 🔍 참여 방법
+
+1. 이 저장소를 `fork` 한다.
+2. 생성된 원격 저장소에 `Github ID`로 폴더를 생성한다.
+3. 알고리즘 풀이 후 원격 저장소 자신의 폴더에 풀이한 소스 코드를 `push` 한다.
+4. commit할 때 commit 컨벤션을 지킨다.
+5. 마감 시간 전까지 원본 저장소로 `PR`한다.
+6. (option) 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
+
+<br/>
+
+## 📁 Repository 폴더 구조
+
+- Github ID/주차/소스코드(플랫폼, 문제 번호와 제목 명시)
+
+### 💡 예시
+
+`tldjfj123/Week01/BOJ_1000_A+B.py`
+
+<br/>
+
+## ⚠️ commit 컨벤션 샤그닥~
+
+> commit 컨벤션은 [gitmoji](https://gitmoji.dev/)
+> 와 [AngularJS Git Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)을 참고했습니다.
+
+- "태그: [플랫폼] {클래스 이름(플랫폼, 문제 번호, 문제 제목)} {커밋 메시지}" 형태로 작성
+- 플랫폼에 따라 없는 내용은 생략 가능
+
+### 💡 예시
+
+`✨feat: BOJ_1000.A+B 문제 알고리즘 구현`
+
+#### 이모지 및 태그
+
+- 이모지는 선택에 따라 활용
+
+| 이모지 | 태그       | 설명                      |
+|:----|:---------|:------------------------|
+| ✨   | feat     | 새로운 기능 추가               |
+| 🐛  | fix      | 버그 수정                   |
+| ♻️  | refactor | 코드 리팩토링                 |
+| ✏️  | comment  | 주석 추가(코드 변경 X) 혹은 오타 수정 |
+| 📝  | docs     | README와 같은 문서 수정        |
+| 🔀  | merge    | merge                   |
+| 🚚  | rename   | 파일, 폴더명 수정 혹은 이동        |
+
+#### 플랫폼
+
+| 플랫폼    | 태그  |
+|:-------|:----|
+| 백준     | BOJ |
+| 프로그래머스 | PGS |
+| 리트코드   | LTC |
+
+<br/>
+
+## ⚠️ PR 규칙
+
+- [주차] {플랫폼} {알고리즘 종류} 알고리즘 - {기타 내용}" 형태로 작성
+- (option) comment는 자유지만, 겪었던 어려움이나 참고했던 자료들 공유해주시면 스터디 모임 때 얘기하면서 같이 성장할 수 있을 것 같습니다. 🙂
+
+### 💡 예시
+
+`[week 01] 3문제 제출합니다.`
+
+---
+
+해당 README는 다음 레포지토리를 참고해서 제작하였습니다.
+
+- [알고리즘 및 코딩 테스트 문제 풀이 챌린지 100](https://github.com/ellynhan/challenge100-codingtest-study)
+- [알고리즘 및 코딩 테스트 문제 풀이](https://github.com/Seongho0503/Algo_Study)
+- [코딩테스트 기출 문제 풀이 및 업로드 Repository](https://github.com/CodeTest-StudyGroup/Code-Test-Study)
+- [Algorithm Study](https://github.com/b1urrrr/Algorithm-Study)
