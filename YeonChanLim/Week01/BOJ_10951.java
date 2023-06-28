@@ -12,7 +12,7 @@ public class BOJ_10951 {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         // 입력 받을 값을 담을 변수
-        
+
         String s;
         // 입력이 있으면 while문을 수행하고 없다면 종료
         while ((s = br.readLine()) != null){
