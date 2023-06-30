@@ -37,6 +37,7 @@
 | 주차 | 날짜 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|:---:|
 |Week01|0626 ~ 0702| - | [CLASS1](https://solved.ac/class?class=1) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> ~ <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |
+|Week02|0703 ~ 0709| - | [CLASS2](https://solved.ac/class?class=2) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> ~ <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 <!--
 | week_ | 06-26 ~ 07-02 | Backtracking | <p align=left> 1️⃣ [N과 M (1)](https://www.acmicpc.net/problem/15649) <br> 2️⃣ [N과 M (9)](https://www.acmicpc.net/problem/15663) <br> 3️⃣ [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br> |
 -->
@@ -57,6 +58,7 @@
 |   주차    |      날짜       | tldjfj123 | YeonChanLim | 
 |:-------:|:-------------:|:-------:|:---------:|
 | Week01 | 0626 ~ 0702 |    ✅     |     ❌     | 
+| Week02 | 0703 ~ 0709 |    ❌     |     ❌     |
 <!--
 | week_02 | 02-27 ~ 03-05 |    ✅    |     ✅     |    ✅     |      ✅      |      ✅     |
 | week_03 | 03-06 ~ 03-12 |    ✅    |     🔺     |    ✅     |      ✅      |      ✅     |
