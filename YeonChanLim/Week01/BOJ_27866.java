@@ -5,23 +5,18 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ_10950 {
-    static int T,A,B;
+public class BOJ_27866 {
+    static int i;
+    static String S;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
-        T = Integer.parseInt(st.nextToken());
 
-        for (int i = 0; i < T; i++) {
+        S = st.nextToken();
+        i = Integer.parseInt(br.readLine());
 
-            st = new StringTokenizer(br.readLine());
+        System.out.println(S.charAt(i-1));
 
-            A = Integer.parseInt(st.nextToken());
-            B = Integer.parseInt(st.nextToken());
-
-            System.out.println(A+B);
-
-        }
     }
 }
