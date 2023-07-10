@@ -10,5 +10,12 @@ public class BOJ_1676 {
 
         int num = Integer.parseInt(br.readLine());
 
+        int count = 0;
+
+        while (num >= 5) {
+            count += num / 5;
+            num /= 5;
+        }
+        System.out.println(count);
     }
 }
