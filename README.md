@@ -6,8 +6,9 @@
   </tr>
   <tr>
     <td>언어</td>
-    <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <td><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
     </td>
   </tr>
 </table>
@@ -20,14 +21,18 @@
  <tr>
     <td align="center"><a href="https://github.com/tldjfj123"><img src="https://avatars.githubusercontent.com/tldjfj123" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/YeonChanLim"><img src="https://avatars.githubusercontent.com/YeonChanLim" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/UBiiiii"><img src="https://avatars.githubusercontent.com/UBiiiii" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/tldjfj123"><b>tldjfj123</b></a></td>
     <td align="center"><a href="https://github.com/YeonChanLim"><b>YeonChanLim</b></a></td>
+    <td align="center"><a href="https://github.com/UBiiiii"><b>UBiiiii</b></a></td>
   </tr>
+  
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </td>
 </table>
 
 <br/>
@@ -38,6 +43,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |Week01|0626 ~ 0702| - | [CLASS1](https://solved.ac/class?class=1) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> ~ <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |
 |Week02|0703 ~ 0709| - | [CLASS2](https://solved.ac/class?class=2) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> ~ <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+|Week03|0710 ~ 0716| - | 자율풀이 |  |
 <!--
 | week_ | 06-26 ~ 07-02 | Backtracking | <p align=left> 1️⃣ [N과 M (1)](https://www.acmicpc.net/problem/15649) <br> 2️⃣ [N과 M (9)](https://www.acmicpc.net/problem/15663) <br> 3️⃣ [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br> |
 -->
@@ -55,10 +61,11 @@
 
 <br>
 
-|   주차    |      날짜       | tldjfj123 | YeonChanLim | 
-|:-------:|:-------------:|:-------:|:---------:|
-| Week01 | 0626 ~ 0702 |    ✅     |     ❌     | 
-| Week02 | 0703 ~ 0709 |    ❌     |     ❌     |
+|   주차    |      날짜       | tldjfj123 | YeonChanLim | UBiiiii |
+|:-------:|:-------------:|:-------:|:---------:|:---------:|
+| Week01 | 0626 ~ 0702 |    ✅     |     ✅     | -  |
+| Week02 | 0703 ~ 0709 |    🔢     |     🔢     | -  |
+| Week03 | 0710 ~ 0716 |    ❌     |     ❌     | ❌  |
 <!--
 | week_02 | 02-27 ~ 03-05 |    ✅    |     ✅     |    ✅     |      ✅      |      ✅     |
 | week_03 | 03-06 ~ 03-12 |    ✅    |     🔺     |    ✅     |      ✅      |      ✅     |
@@ -89,7 +96,7 @@
 
 ### 문제
 
-- https://solved.ac/class 단계별로 해결
+- https://solved.ac/class 단계별로 해결할라했으나 구성원 다양화로 인해 협의 예정!! (23.07.10)
 
 ### 문제 풀이
 
@@ -148,7 +155,7 @@
 
 ## 📁 Repository 폴더 구조
 
-- Github ID/주차/소스코드(플랫폼, 문제 번호와 제목 명시)
+- Github ID/주차/소스코드(플랫폼, 문제 번호, 문제 이름 명시)
 
 ### 💡 예시
 
@@ -158,6 +165,8 @@
 
 ## ⚠️ commit 컨벤션 샤그닥~
 
+-> 협의 예정!! 
+<!--
 > commit 컨벤션은 [gitmoji](https://gitmoji.dev/)
 > 와 [AngularJS Git Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)을 참고했습니다.
 
@@ -167,6 +176,8 @@
 ### 💡 예시
 
 `✨feat: BOJ_1000.A+B 문제 알고리즘 구현`
+
+-->
 
 #### 이모지 및 태그
 
