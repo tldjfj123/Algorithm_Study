@@ -43,7 +43,9 @@
 |:---:|:---:|:---:|:---:|:---:|
 |Week01|0626 ~ 0702| - | [CLASS1](https://solved.ac/class?class=1) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> ~ <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |
 |Week02|0703 ~ 0709| - | [CLASS2](https://solved.ac/class?class=2) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> ~ <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
-|Week03|0710 ~ 0716| - | 자율풀이 |  |
+|Week03|0710 ~ 0716| - | 자율풀이 | -  |
+|Week04|0717 ~ 0723| - | 정처기 준비 | - |
+
 <!--
 | week_ | 06-26 ~ 07-02 | Backtracking | <p align=left> 1️⃣ [N과 M (1)](https://www.acmicpc.net/problem/15649) <br> 2️⃣ [N과 M (9)](https://www.acmicpc.net/problem/15663) <br> 3️⃣ [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br> |
 -->
@@ -65,7 +67,8 @@
 |:-------:|:-------------:|:-------:|:---------:|:---------:|
 | Week01 | 0626 ~ 0702 |    ✅     |     ✅     | -  |
 | Week02 | 0703 ~ 0709 |    🔢     |     🔢     | -  |
-| Week03 | 0710 ~ 0716 |    ❌     |     ❌     | ❌  |
+| Week03 | 0710 ~ 0716 |    ✅     |     ✅     | ✅  |
+| Week04 | 0717 ~ 0723 |    -     |     -     | - |
 <!--
 | week_02 | 02-27 ~ 03-05 |    ✅    |     ✅     |    ✅     |      ✅      |      ✅     |
 | week_03 | 03-06 ~ 03-12 |    ✅    |     🔺     |    ✅     |      ✅      |      ✅     |
