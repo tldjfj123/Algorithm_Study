@@ -22,17 +22,21 @@
     <td align="center"><a href="https://github.com/tldjfj123"><img src="https://avatars.githubusercontent.com/tldjfj123" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/YeonChanLim"><img src="https://avatars.githubusercontent.com/YeonChanLim" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/UBiiiii"><img src="https://avatars.githubusercontent.com/UBiiiii" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/minhyukkk"><img src="https://avatars.githubusercontent.com/minhyukkk" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/tldjfj123"><b>tldjfj123</b></a></td>
     <td align="center"><a href="https://github.com/YeonChanLim"><b>YeonChanLim</b></a></td>
     <td align="center"><a href="https://github.com/UBiiiii"><b>UBiiiii</b></a></td>
+    <td align="center"><a href="https://github.com/minhyukkk"><b>minhyukkk</b></a></td>
   </tr>
   
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+
 </table>
 
 <br/>
@@ -63,12 +67,12 @@
 
 <br>
 
-|   주차    |      날짜       | tldjfj123 | YeonChanLim | UBiiiii |
-|:-------:|:-------------:|:-------:|:---------:|:---------:|
-| Week01 | 0626 ~ 0702 |    ✅     |     ✅     | -  |
-| Week02 | 0703 ~ 0709 |    🔢     |     🔢     | -  |
-| Week03 | 0710 ~ 0716 |    ✅     |     ✅     | ✅  |
-| Week04 | 0717 ~ 0723 |    -     |     -     | - |
+|   주차    |      날짜       | tldjfj123 | YeonChanLim | UBiiiii | minhyukkk |
+|:-------:|:-------------:|:-------:|:---------:|:---------:|:---------:|
+| Week01 | 0626 ~ 0702 |    ✅     |     ✅     | -  | - |
+| Week02 | 0703 ~ 0709 |    🔢     |     🔢     | -  | - |
+| Week03 | 0710 ~ 0716 |    ✅     |     ✅     | ✅  | - |
+| Week04 | 0717 ~ 0723 |    -     |     -     | - | - |
 <!--
 | week_02 | 02-27 ~ 03-05 |    ✅    |     ✅     |    ✅     |      ✅      |      ✅     |
 | week_03 | 03-06 ~ 03-12 |    ✅    |     🔺     |    ✅     |      ✅      |      ✅     |
