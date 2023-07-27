@@ -84,9 +84,22 @@
 | Week02 | 0703 ~ 0709 |    🔢     |     🔢     | -  | - |
 | Week03 | 0710 ~ 0716 |    ✅     |     ✅     | ✅  | - |
 | Week04 | 0717 ~ 0723 |    -     |     -     | - | - |
+| Week04 | 0724 ~ 0730 |    -     |     -     | - | - |
+
 
 
 <br/>
+
+## 🗓 일정표(매주 10 문제)
+
+- 리뷰 할 핵심적인 4문제만 기록함
+<br>
+<details>
+  <summary>일정표 열기</summary>
+ 
+| 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Week05 | 07-24 ~ 07-30 | - | <p align=left> 1️⃣ [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) <br> 2️⃣ [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) <br> 3️⃣ [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) <br> 4️⃣ [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)  | Lv 1 |  |
 
 ## 📌 스터디 규칙
 
