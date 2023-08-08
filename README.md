@@ -61,6 +61,8 @@
 |Week04|0717 ~ 0723| - | 정처기 준비 | - |
 |Week05|0724 ~ 0730| - | 프로그래머스 Lv. 1 10문제 | Lv. 1 |
 |Week06|0731 ~ 0806| - | 프로그래머스 Lv. 1 7문제 +  Lv. 2 2문제 | Lv. 1 ~ Lv. 2  |
+|Week07|0807 ~ 0813| - | 프로그래머스 Lv. 1 5문제 +  Lv. 2 4문제 | Lv. 1 ~ Lv. 2  |
+
 
 <!--
 | week_ | 06-26 ~ 07-02 | Backtracking | <p align=left> 1️⃣ [N과 M (1)](https://www.acmicpc.net/problem/15649) <br> 2️⃣ [N과 M (9)](https://www.acmicpc.net/problem/15663) <br> 3️⃣ [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br> |
@@ -84,17 +86,19 @@
 | Week01 | 0626 ~ 0702 |    ✅     |     ✅     | -  | - |
 | Week02 | 0703 ~ 0709 |    🔢     |     🔢     | -  | - |
 | Week03 | 0710 ~ 0716 |    ✅     |     ✅     | ✅  | - |
-| Week04 | 0717 ~ 0723 |    -     |     -     | - | - |
+| Week04 | 0717 ~ 0723 |    기     |     사     | 준 | 비 |
 | Week05 | 0724 ~ 0730 |    ✅     |     ✅     | ✅ | ✅ |
-| Week06 | 0731 ~ 0806 |    -     |     -     | - | - |
+| Week06 | 0731 ~ 0806 |    ✅     |     ✅     | ✅ | ✅ |
+| Week07 | 0807 ~ 0813 |    -      |     -      | - | - |
 
 
 
 <br/>
 
-## 🗓 일정표(매주 10 문제)
+## 🗓 일정표(매주 9 문제)
 
-- 리뷰 할 핵심적인 4문제만 기록함
+- ~~리뷰 할 핵심적인 4문제만 기록함~~
+- 모든 문제 리뷰
 <br>
 <details>
   <summary>일정표 열기</summary>
@@ -103,6 +107,8 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Week05 | 07-24 ~ 07-30 | - | <p align=left> 1️⃣ [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) <br> 2️⃣ [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) <br> 3️⃣ [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) <br> 4️⃣ [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)  | Lv 1 | 
 | Week06 | 07-31 ~ 08-06 | - | <p align=left> 1️⃣ [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) <br> 2️⃣ [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) <br> 3️⃣ [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) <br> 4️⃣ [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)  | Lv 1 ~ Lv 2 |
+| Week07 | 08-07 ~ 08-13 | - | <p align=left> 1️⃣ [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) <br> 2️⃣ [가장 큰  수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) <br> 3️⃣ [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)<br> 4️⃣ [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) <br> 5️⃣ [옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) <br> 6️⃣ [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) <br> 7️⃣ [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) <br> 8️⃣ [숫자짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) <br> 9️⃣  [성격유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)     | Lv 1 ~ Lv 2 |
+ 
 
 ## 📌 스터디 규칙
 
@@ -114,7 +120,8 @@
 
 - ~~https://solved.ac/class 단계별로 해결할라했으나 구성원 다양화로 인해 협의 예정!! (23.07.10)~~
 - ~~플랫폼 지정 후 매주 10문제 (정답률 하위 4문제만 리뷰)(23.08.01)~~
-- 플랫폼 지정 후 매주 10문제 (정답률 하위 4문제만 리뷰)
+- ~~플랫폼 지정 후 매주 9문제 (정답률 하위 4문제만 리뷰)(23.08.08)~~
+- 모든 문제 리뷰
 
 <br/>
 
