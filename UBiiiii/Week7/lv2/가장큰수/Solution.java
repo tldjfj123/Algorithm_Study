@@ -12,6 +12,10 @@ class Solution {
         return sb.charAt(0)=='0' ? "0" : sb.toString();
     }
     
+    /*
+     * 두 문자열을 비교하는 데에 사용되는 함수
+     * 주어진 numbers를 커지는 순으로 정렬하기 위하여 사용
+     */
     private static int compare(String a, String b) {
         return Integer.parseInt(b+a) - Integer.parseInt(a+b);
     }
