@@ -62,6 +62,7 @@
 |Week05|0724 ~ 0730| - | 프로그래머스 Lv. 1 10문제 | Lv. 1 |
 |Week06|0731 ~ 0806| - | 프로그래머스 Lv. 1 7문제 +  Lv. 2 2문제 | Lv. 1 ~ Lv. 2  |
 |Week07|0807 ~ 0813| - | 프로그래머스 Lv. 1 5문제 +  Lv. 2 4문제 | Lv. 1 ~ Lv. 2  |
+|Week08|0814 ~ 0820| - | 프로그래머스 Lv. 1 4문제 +  Lv. 2 5문제 | Lv. 1 ~ Lv. 2  |
 
 
 <!--
@@ -69,29 +70,6 @@
 -->
 
 <br/>
-
-## 🧑🏻‍💻 진행 상황 및 기록
-
-| 진행 상황            | 표기  |
-|:-----------------|:----|
-| 해당 주에 완료 시       | ✅   |
-| 해당 주에 부분 완료 시    | 🔢  |
-| 해당 주에 미완료 시      | ❌   |
-| 해당 주차 종료 이후 보충 시 | 🔺  |
-
-<br>
-
-|   주차    |      날짜       | tldjfj123 | YeonChanLim | UBiiiii | minhyukkk |
-|:-------:|:-------------:|:-------:|:---------:|:---------:|:---------:|
-| Week01 | 0626 ~ 0702 |    ✅     |     ✅     | -  | - |
-| Week02 | 0703 ~ 0709 |    🔢     |     🔢     | -  | - |
-| Week03 | 0710 ~ 0716 |    ✅     |     ✅     | ✅  | - |
-| Week04 | 0717 ~ 0723 |    기     |     사     | 준 | 비 |
-| Week05 | 0724 ~ 0730 |    ✅     |     ✅     | ✅ | ✅ |
-| Week06 | 0731 ~ 0806 |    ✅     |     ✅     | ✅ | ✅ |
-| Week07 | 0807 ~ 0813 |    -      |     -      | - | - |
-
-
 
 <br/>
 
@@ -108,6 +86,7 @@
 | Week05 | 07-24 ~ 07-30 | - | <p align=left> 1️⃣ [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) <br> 2️⃣ [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) <br> 3️⃣ [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) <br> 4️⃣ [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)  | Lv 1 | 
 | Week06 | 07-31 ~ 08-06 | - | <p align=left> 1️⃣ [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) <br> 2️⃣ [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) <br> 3️⃣ [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) <br> 4️⃣ [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)  | Lv 1 ~ Lv 2 |
 | Week07 | 08-07 ~ 08-13 | - | <p align=left> 1️⃣ [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) <br> 2️⃣ [가장 큰  수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) <br> 3️⃣ [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)<br> 4️⃣ [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) <br> 5️⃣ [옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) <br> 6️⃣ [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) <br> 7️⃣ [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) <br> 8️⃣ [숫자짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) <br> 9️⃣  [성격유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)     | Lv 1 ~ Lv 2 |
+| Week08 | 08-14 ~ 08-20 | - | <p align=left> 1️⃣ [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) <br> 2️⃣ [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) <br> 3️⃣ [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)<br> 4️⃣ [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) <br> 5️⃣ [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) <br> 6️⃣ [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) <br> 7️⃣ [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) <br> 8️⃣ [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) <br> 9️⃣  [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)     | Lv 1 ~ Lv 2 |
 
 </details>
 
@@ -124,7 +103,6 @@
 - ~~플랫폼 지정 후 매주 9문제 (정답률 하위 4문제만 리뷰)(23.08.08)~~
 - 모든 문제 리뷰
 
-<br/>
 
 <br/>
 
