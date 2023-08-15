@@ -9,7 +9,10 @@ import java.util.Arrays;
 class Solution {
     static Map<String, Set<String>> cnt = new HashMap<>();
     static Set<String> tmp;
-    
+
+    /*
+     * 신고 당한 사람을 key로 해서, 신고한 사람들을 저장하는 Set으로 중복 확인
+     */
     public int[] solution(String[] id_list, String[] report, int k) {
         int[] answer = new int[id_list.length];
         for(String id : id_list)    cnt.put(id, new HashSet<>());
