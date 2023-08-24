@@ -23,12 +23,14 @@
     <td align="center"><a href="https://github.com/YeonChanLim"><img src="https://avatars.githubusercontent.com/YeonChanLim" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/UBiiiii"><img src="https://avatars.githubusercontent.com/UBiiiii" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/minhyukkk"><img src="https://avatars.githubusercontent.com/minhyukkk" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/yjh0816"><img src="https://avatars.githubusercontent.com/yjh0816" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/tldjfj123"><b>tldjfj123</b></a></td>
     <td align="center"><a href="https://github.com/YeonChanLim"><b>YeonChanLim</b></a></td>
     <td align="center"><a href="https://github.com/UBiiiii"><b>UBiiiii</b></a></td>
     <td align="center"><a href="https://github.com/minhyukkk"><b>minhyukkk</b></a></td>
+    <td align="center"><a href="https://github.com/yjh0816"><b>yjh0816</b></a></td>
   </tr>
   
   <tr> 
@@ -45,6 +47,9 @@
     <td align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+    </td>
+    <td align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </td>
 
 </table>
@@ -63,6 +68,7 @@
 |Week06|0731 ~ 0806| - | 프로그래머스 Lv. 1 7문제 +  Lv. 2 2문제 | Lv. 1 ~ Lv. 2  |
 |Week07|0807 ~ 0813| - | 프로그래머스 Lv. 1 5문제 +  Lv. 2 4문제 | Lv. 1 ~ Lv. 2  |
 |Week08|0814 ~ 0820| - | 프로그래머스 Lv. 1 4문제 +  Lv. 2 5문제 | Lv. 1 ~ Lv. 2  |
+|Week09|0821 ~ 0827| - | 프로그래머스 Lv. 1 4문제 +  Lv. 2 4문제 | Lv. 1 ~ Lv. 2  |
 
 
 <!--
@@ -87,6 +93,7 @@
 | Week06 | 07-31 ~ 08-06 | - | <p align=left> 1️⃣ [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) <br> 2️⃣ [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) <br> 3️⃣ [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) <br> 4️⃣ [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)  | Lv 1 ~ Lv 2 |
 | Week07 | 08-07 ~ 08-13 | - | <p align=left> 1️⃣ [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) <br> 2️⃣ [가장 큰  수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) <br> 3️⃣ [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)<br> 4️⃣ [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) <br> 5️⃣ [옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) <br> 6️⃣ [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) <br> 7️⃣ [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) <br> 8️⃣ [숫자짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) <br> 9️⃣  [성격유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)     | Lv 1 ~ Lv 2 |
 | Week08 | 08-14 ~ 08-20 | - | <p align=left> 1️⃣ [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) <br> 2️⃣ [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) <br> 3️⃣ [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)<br> 4️⃣ [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) <br> 5️⃣ [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) <br> 6️⃣ [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) <br> 7️⃣ [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) <br> 8️⃣ [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) <br> 9️⃣  [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)     | Lv 1 ~ Lv 2 |
+| Week09 | 08-21 ~ 08-27 | - | <p align=left> 1️⃣ [두개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) <br> 2️⃣ [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) <br> 3️⃣ [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)<br> 4️⃣ [카카오프렌즈 컬러링북](https://school.programmers.co.kr/learn/courses/30/lessons/1829) <br> 5️⃣ [단체사진 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/1835) <br> 6️⃣ [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) <br> 7️⃣ [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) <br> 8️⃣ [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) <br> | Lv 1 ~ Lv 2 |
 
 </details>
 
