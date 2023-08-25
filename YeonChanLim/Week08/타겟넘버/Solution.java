@@ -4,7 +4,7 @@ class Solution {
     int count = 0;
     public int solution(int[] numbers, int target) {
         int answer = 0;
-        dfs(numbers, 0, target, 0);
+        dfs(numbers, 0, target, 0); // DFS 함수 호출
         answer = count;
 
         return answer;
@@ -20,9 +20,8 @@ class Solution {
         int plus = result + numbers[depth]; //양수를 더한 값
         int minus = result - numbers[depth]; //음수를 더한 값
 
-        dfs(numbers, depth+1, target, plus);
-        dfs(numbers, depth+1, target, minus);
-
+        dfs(numbers, depth+1, target, plus); // 다음 노드로 양수 값을 더한 경우 호출
+        dfs(numbers, depth+1, target, minus); // 다음 노드로 음수 값을 더한 경우 호출
     }
 
 }

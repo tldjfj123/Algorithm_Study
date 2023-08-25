@@ -17,7 +17,7 @@ public class BOJ_1978 {
 
         for(int i=0; i < num; i++){
             isPN = Integer.parseInt(st.nextToken());
-            
+
             for(int p=2; p<=isPN; p++){
                 if(p == isPN){
                     cnt++;
