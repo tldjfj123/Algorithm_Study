@@ -70,6 +70,7 @@
 |Week08|0814 ~ 0820| - | 프로그래머스 Lv. 1 4문제 +  Lv. 2 5문제 | Lv. 1 ~ Lv. 2  |
 |Week09|0821 ~ 0827| - | 프로그래머스 Lv. 1 4문제 +  Lv. 2 4문제 | Lv. 1 ~ Lv. 2  |
 |Week10|0828 ~ 0901| - | Lv. 2 5문제 | Lv. 2  |
+|Week11|0902 ~ 0908| - | CLASS 3 5문제 | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ~ <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |
 
 
 <!--
@@ -96,6 +97,8 @@
 | Week08 | 08-14 ~ 08-20 | - | <p align=left> 1️⃣ [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) <br> 2️⃣ [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) <br> 3️⃣ [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)<br> 4️⃣ [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) <br> 5️⃣ [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) <br> 6️⃣ [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) <br> 7️⃣ [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) <br> 8️⃣ [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) <br> 9️⃣  [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)     | Lv 1 ~ Lv 2 |
 | Week09 | 08-21 ~ 08-27 | - | <p align=left> 1️⃣ [두개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) <br> 2️⃣ [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) <br> 3️⃣ [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)<br> 4️⃣ [카카오프렌즈 컬러링북](https://school.programmers.co.kr/learn/courses/30/lessons/1829) <br> 5️⃣ [단체사진 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/1835) <br> 6️⃣ [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) <br> 7️⃣ [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) <br> 8️⃣ [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) <br> | Lv 1 ~ Lv 2 |
 | Week10 | 08-28 ~ 09-01 | - | <p align=left> 1️⃣ [2 X N 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900) <br> 2️⃣ [3 X N 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902) <br> 3️⃣ [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)<br> 4️⃣ [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) <br> 5️⃣ [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) <br> 
+| Week11 | 09-02 ~ 09-08 | - | <p align=left> 1️⃣ [피보나치 함수](https://www.acmicpc.net/problem/1003) <br> 2️⃣ [유기농 배추](https://www.acmicpc.net/problem/1012) <br> 3️⃣ [Z](https://www.acmicpc.net/problem/1074)<br> 4️⃣ [리모컨](https://www.acmicpc.net/problem/1107) <br> 5️⃣ [DFS와 BFS](https://www.acmicpc.net/problem/1260) <br> 
+
 
 </details>
 
@@ -104,7 +107,7 @@
 ### 운영 방식
 
 - 온라인/오프라인 스위칭하면서 진행
-- **반드시 PR하여 업로드 및 마감 기한 준수** : 미제출 시 문제당 벌금 1,000₩ (카카오 모임 통장 활용)
+- **반드시 PR하여 업로드 및 마감 기한 준수(매 주차 금요일)** : 미제출 시 문제당 벌금 1,000₩ (카카오 모임 통장 활용)
 
 ### 문제
 
