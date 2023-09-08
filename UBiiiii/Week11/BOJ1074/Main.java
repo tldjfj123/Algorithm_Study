@@ -1,5 +1,12 @@
 package BOJ1074;
 
+/*
+ * z 방향으로 탐색 -> 입력 영역을 나눠서 z 방향으로 순차적으로 탐색 -> 재귀를 쓰자
+ * 목표 위치에 도달했을 때 몇 번째 탐색인가 -> 맵을 만들어 값을 저장할 필요가 없다. 언제 도달하는지만 저장하면 된다.
+ * 순차적으로 하면 실행시간이 오래 걸린다 -> n이 15까지인데, 최악은 2의 30승...? 겁나 많네
+ * -> 목표 위치가 포함된 영역으로 바로 이동하면서, 스킵한 영역의 수를 더하자
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

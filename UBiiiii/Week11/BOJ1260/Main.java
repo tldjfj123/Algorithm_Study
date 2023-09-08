@@ -1,13 +1,12 @@
 package BOJ1260;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
-import java.util.StringTokenizer;
+/*
+ * dfs와 bfs를 쓰는 문제니까 dfs와 bfs를 써주자
+ * 탐색 시에 숫자가 작은 노드부터 탐색해야 하므로 list 배열을 이용해서 각 노드 별 연결된 노드 리스트 관리 -> 추가할 때마다 정렬하자
+ */
+
+import java.io.*;
+import java.util.*;
 
 public class Main {
     private static StringBuilder sb = new StringBuilder();

@@ -1,5 +1,11 @@
 package BOJ1012;
 
+/*
+ * 인접한 배추들의 구역을 세자 -> bfs를 이용하자
+ * map, isChecked는 boolean 배열로 구성 -> int를 써도 되는데, 이게 메모리가 더 적지 않을까?
+ */
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -19,7 +25,10 @@ public class Main {
         int t, k, x, y, cnt;
         t = Integer.parseInt(br.readLine());
         for(int cn=0;cn<t;cn++) {
+            // bfs를 위한 큐 초기화
             q = new LinkedList<>();
+
+            // 입력에 대한 맵 구성
             StringTokenizer st = new StringTokenizer(br.readLine());
             m = Integer.parseInt(st.nextToken());
             n = Integer.parseInt(st.nextToken());
@@ -27,6 +36,7 @@ public class Main {
             cnt = 0;
             map = new boolean[m][n];
             isChecked = new boolean[m][n];
+
             for(int i=0;i<k;i++) {
                 st = new StringTokenizer(br.readLine());
                 x = Integer.parseInt(st.nextToken());
@@ -34,6 +44,7 @@ public class Main {
                 map[x][y] = true;
             }
 
+            // 각 영역에 대한 bfs
             for(int i=0;i<m;i++) {
                 for(int j=0;j<n;j++) {
                     if(map[i][j] && !isChecked[i][j]) {
