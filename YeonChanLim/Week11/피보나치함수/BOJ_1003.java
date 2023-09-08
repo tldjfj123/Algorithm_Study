@@ -10,6 +10,8 @@ ex) fibonacci(2)는 fibonacci(1) + fibonacci(0)이 리턴
      fibonacci(1)은 1이 리턴
      총 2 + 1 = 3이 결과값
 
+     수정 내용 - 초기값 대입 부분이랑 38라인 for 문에서 j 시작값을 2로 -> 0으로 하면 음수가 나올수도 있으므로
+
  */
 
 import java.io.BufferedReader;
@@ -29,11 +31,11 @@ public class BOJ_1003 {
 
             //초기값 대입
             fibonacci0[0] = 1; //매개변수가 0인 경우 fibonacci(0) 연산이 1번
-            fibonacci1[1] = 0; //매개변수가 1인 경우 fibonacci(0) 연산이 0번
+            fibonacci0[1] = 0; //매개변수가 1인 경우 fibonacci(0) 연산이 0번
             fibonacci1[0] = 0; //매개변수가 0인 경우 fibonacci(1) 연산이 0번
             fibonacci1[1] = 1; //매개변수가 1인 경우 fibonacci(1) 연산이 1번
 
-            for (int j = 0; j < N; j++) {
+            for (int j = 2; j < N; j++) {
                 fibonacci0[j] = fibonacci0[j - 1] + fibonacci0[j - 2];
                 fibonacci1[j] = fibonacci1[j - 1] + fibonacci1[j - 2];
 
