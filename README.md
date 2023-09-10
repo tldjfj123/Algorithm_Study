@@ -71,6 +71,8 @@
 |Week09|0821 ~ 0827| - | 프로그래머스 Lv. 1 4문제 +  Lv. 2 4문제 | Lv. 1 ~ Lv. 2  |
 |Week10|0828 ~ 0901| - | Lv. 2 5문제 | Lv. 2  |
 |Week11|0902 ~ 0908| - | CLASS 3 5문제 | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ~ <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |
+|Week12|0911 ~ 0915| - | CLASS 3 5문제 | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> ~ <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  |
+
 
 
 <!--
@@ -98,6 +100,7 @@
 | Week09 | 08-21 ~ 08-27 | - | <p align=left> 1️⃣ [두개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) <br> 2️⃣ [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) <br> 3️⃣ [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)<br> 4️⃣ [카카오프렌즈 컬러링북](https://school.programmers.co.kr/learn/courses/30/lessons/1829) <br> 5️⃣ [단체사진 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/1835) <br> 6️⃣ [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) <br> 7️⃣ [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) <br> 8️⃣ [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) <br> | Lv 1 ~ Lv 2 |
 | Week10 | 08-28 ~ 09-01 | - | <p align=left> 1️⃣ [2 X N 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900) <br> 2️⃣ [3 X N 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902) <br> 3️⃣ [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)<br> 4️⃣ [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) <br> 5️⃣ [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) <br> 
 | Week11 | 09-02 ~ 09-08 | - | <p align=left> 1️⃣ [피보나치 함수](https://www.acmicpc.net/problem/1003) <br> 2️⃣ [유기농 배추](https://www.acmicpc.net/problem/1012) <br> 3️⃣ [Z](https://www.acmicpc.net/problem/1074)<br> 4️⃣ [리모컨](https://www.acmicpc.net/problem/1107) <br> 5️⃣ [DFS와 BFS](https://www.acmicpc.net/problem/1260) <br> 
+| Week12 | 09-11 ~ 09-15 | - | <p align=left> 1️⃣ [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) <br> 2️⃣ [1로 만들기](https://www.acmicpc.net/problem/1463) <br> 3️⃣ [잃어버린 괄호](https://www.acmicpc.net/problem/1541)<br> 4️⃣ [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) <br> 5️⃣ [숨바꼭질](https://www.acmicpc.net/problem/1697) <br> 
 
 
 </details>
