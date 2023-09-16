@@ -23,14 +23,12 @@
     <td align="center"><a href="https://github.com/YeonChanLim"><img src="https://avatars.githubusercontent.com/YeonChanLim" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/UBiiiii"><img src="https://avatars.githubusercontent.com/UBiiiii" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/minhyukkk"><img src="https://avatars.githubusercontent.com/minhyukkk" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/yjh0816"><img src="https://avatars.githubusercontent.com/yjh0816" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/tldjfj123"><b>tldjfj123</b></a></td>
     <td align="center"><a href="https://github.com/YeonChanLim"><b>YeonChanLim</b></a></td>
     <td align="center"><a href="https://github.com/UBiiiii"><b>UBiiiii</b></a></td>
     <td align="center"><a href="https://github.com/minhyukkk"><b>minhyukkk</b></a></td>
-    <td align="center"><a href="https://github.com/yjh0816"><b>yjh0816</b></a></td>
   </tr>
   
   <tr> 
@@ -48,10 +46,6 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
     </td>
-    <td align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </td>
-
 </table>
 
 <br/>
@@ -72,7 +66,7 @@
 |Week10|0828 ~ 0901| - | Lv. 2 5문제 | Lv. 2  |
 |Week11|0902 ~ 0908| - | CLASS 3 5문제 | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ~ <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |
 |Week12|0911 ~ 0915| - | CLASS 3 5문제 | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> ~ <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  |
-
+|Week13|0918 ~ 0922| - | CLASS 3 5문제 | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> ~ <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  |
 
 
 <!--
@@ -101,7 +95,7 @@
 | Week10 | 08-28 ~ 09-01 | - | <p align=left> 1️⃣ [2 X N 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900) <br> 2️⃣ [3 X N 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902) <br> 3️⃣ [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)<br> 4️⃣ [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) <br> 5️⃣ [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) <br> 
 | Week11 | 09-02 ~ 09-08 | - | <p align=left> 1️⃣ [피보나치 함수](https://www.acmicpc.net/problem/1003) <br> 2️⃣ [유기농 배추](https://www.acmicpc.net/problem/1012) <br> 3️⃣ [Z](https://www.acmicpc.net/problem/1074)<br> 4️⃣ [리모컨](https://www.acmicpc.net/problem/1107) <br> 5️⃣ [DFS와 BFS](https://www.acmicpc.net/problem/1260) <br> 
 | Week12 | 09-11 ~ 09-15 | - | <p align=left> 1️⃣ [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) <br> 2️⃣ [1로 만들기](https://www.acmicpc.net/problem/1463) <br> 3️⃣ [잃어버린 괄호](https://www.acmicpc.net/problem/1541)<br> 4️⃣ [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) <br> 5️⃣ [숨바꼭질](https://www.acmicpc.net/problem/1697) <br> 
-
+| Week13 | 09-18 ~ 09-22 | - | <p align=left> 1️⃣ [듣보잡](https://www.acmicpc.net/problem/1764) <br> 2️⃣ [최소 힙](https://www.acmicpc.net/problem/1927) <br> 3️⃣ [회의실 배정](https://www.acmicpc.net/problem/1931)<br> 4️⃣ [미로 탐색](https://www.acmicpc.net/problem/2178) <br> 5️⃣ [계단 오르기](https://www.acmicpc.net/problem/2579) <br> 
 
 </details>
 
