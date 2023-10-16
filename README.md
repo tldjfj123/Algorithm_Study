@@ -68,6 +68,9 @@
 |Week12|0911 ~ 0915| - | CLASS 3 5문제 | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> ~ <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  |
 |Week13|0918 ~ 0922| - | CLASS 3 5문제 | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> ~ <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  |
 
+Week14부터 백준 그룹 &문제집 기능 이용 중  
+링크 : https://www.acmicpc.net/group/workbook/18844
+
 
 <!--
 | week_ | 06-26 ~ 07-02 | Backtracking | <p align=left> 1️⃣ [N과 M (1)](https://www.acmicpc.net/problem/15649) <br> 2️⃣ [N과 M (9)](https://www.acmicpc.net/problem/15663) <br> 3️⃣ [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br> |
